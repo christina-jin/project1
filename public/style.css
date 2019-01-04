@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  background: linear-gradient(45deg, white, gold);
+  color: black;
+  letter-spacing: 0.05em;
+}
+
+h1 {
+  text-align: center
+}
+
+h3 {
+  text-align: center
+}
+
+.agree {
+  display: block;
+  text-align: center;
+}
+
+.questions {
+  font-style: italic
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#app form {
+  display: flex;
+  flex-direction: column;
+  margin: 0 30%;
+}
+
+#result {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+form > * {
+  margin: 10px;
+}
+
+button {
+  background-color: #00aaaa;
+  color: white;
+  font-weight: bold;
+  border: 0;
+  border-radius: 3px;
+  padding: 10px;
+  letter-spacing: 0.3em;
+  transition: background-color 0.5s ease;
+  width: 50%;
+  margin-left: 25%
+}
+
+button:disabled {
+  background-color: #333333;
+}
+
+img {
+  object-fit: contain;
+  max-width: 50%;
+  max-height: 50%;
+  width: auto;
+  height: auto;
+}
+
+input[type=radio] {
+  margin-right: 1em;
+}

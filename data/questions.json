@@ -1,0 +1,127 @@
+[{
+  "name": "What does your Friday nights usually look like?",
+  "choices": [{
+    "label": "Hang out with friends",
+    "value": "Beer"
+  }, {
+    "label": "Stay home, relax and watch Netflix",
+    "value": "Spirits"
+  }, {
+    "label": "Date night",
+    "value": "Wine"
+  }, {
+    "label": "Work out",
+    "value": "Water"
+  }, {
+    "label": "Checkout a new bar",
+    "value": "Cocktails"
+  }]
+},{
+  "name": "What coffee do you drink?",
+  "choices": [{
+    "label": "Frappacino",
+    "value": "Water"
+  }, {
+    "label": "Caramel Macchiato",
+    "value": "Cocktails"
+  }, {
+    "label": "Latte",
+    "value": "Beer"
+  }, {
+    "label": "Black",
+    "value": "Wine"
+  }, {
+    "label": "I don't drink coffee.",
+    "value": "Spirits"
+  }]
+},{
+  "name": "What is your favorite season?",
+  "choices": [{
+    "label": "Spring",
+    "value": "Water"
+  }, {
+    "label": "Summer",
+    "value": "Beer"
+  }, {
+    "label": "Fall",
+    "value": "Wine"
+  }, {
+    "label": "Winter",
+    "value": "Spirits"
+  }, {
+    "label": "Can't choose between two or more",
+    "value": "Cocktails"
+  }]
+},{
+  "name": "What bothers you more?",
+  "choices": [{
+    "label": "When your friends are late",
+    "value": "Beer"
+  }, {
+    "label": "Bad and/or rude customer service",
+    "value": "Wine"
+  }, {
+    "label": "People who play their phone loudly in public",
+    "value": "Spirits"
+  }, {
+    "label": "When your friends won't drink",
+    "value": "Cocktail"
+  }, {
+    "label": "When you see someone litter",
+    "value": "Water"
+  }]
+},{
+  "name": "Choose one activity:",
+    "choices": [{
+      "label": "Yoga",
+      "value": "Wine"
+    }, {
+      "label": "Chess",
+      "value": "Spirits"
+    }, {
+      "label": "Golf",
+      "value": "Beer"
+    }, {
+      "label": "Instagram",
+      "value": "Cocktails"
+    }, {
+      "label": "Reading",
+      "value": "Water"
+    }]
+  }, {
+  "name": "Why didn't the skeleton go to the party?",
+  "choices": [{
+    "label": "The skeleton wasn't invited",
+    "value": "Cocktail"
+  }, {
+    "label": "Because it had no-body to go with",
+    "value": "Beer"
+  }, {
+    "label": "Why?",
+    "value": "Water"
+  }, {
+    "label": "Because the skeleton had other things to do",
+    "value": "Wine"
+  }, {
+    "label": "What kind of question is this?",
+    "value": "Spirits"
+    }]
+  }, {
+    "name": "What do you prefer?",
+    "choices": [{
+      "label": "Beer",
+      "value": "Beer"
+    }, {
+      "label": "Wine",
+      "value": "Wine"
+    }, {
+      "label": "Cocktail",
+      "value": "Cocktail"
+    }, {
+      "label": "Spirits",
+      "value": "Spirits"
+    }, {
+      "label": "Water",
+      "value": "Water"
+    }]
+}]
