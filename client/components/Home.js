@@ -20,7 +20,7 @@ class Home extends React.Component {
   render () {
     return (
       <div>
-          <h1> 🍸🍻 Which Drink Are You?🍹🍷</h1>
+        <h1> 🍸🍻 Which Drink Are You?🍹🍷</h1>
         <form action="" className="agree" onSubmit={this.handleSubmit}>
           <div className='agree'>
           <input type="checkbox" name="agree" id="agree"></input>

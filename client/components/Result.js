@@ -15,9 +15,9 @@ const Result = (props) => {
   
   return (
     <div id="result">
-    <h1>{drink}</h1>
-    <h4>{description[drink]}</h4>
-    <img src={`/${drink}.png`} />
+      <h1>{drink}</h1>
+      <h4>{description[drink]}</h4>
+      <img src={`/${drink}.png`} />
     </div>
   )
 }

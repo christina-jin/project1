@@ -22,6 +22,7 @@ class RadioForm extends React.Component {
   
   render () {
     const question = this.props.questions[this.props.currentQuestion]
+    
     return (
       <form onSubmit={this.handleSubmit}>
         <label className="questions">{question.name}

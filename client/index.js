@@ -5,11 +5,6 @@ import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
 import Home from './components/Home'
 import Questions from './components/Questions'
 
-// ReactDOM.render(
-//   <Questions />,
-//   document.getElementById('app')
-// )
-
 
 ReactDOM.render(
   <Router>
